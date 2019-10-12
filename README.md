@@ -8,6 +8,7 @@ https://github.com/edwlook/node-google-distance/commits?author=edwlook
 
 
 more information and documentation on : 
+
 https://www.npmjs.com/package/google-distance
 
 
@@ -17,4 +18,5 @@ var distance = require('google-distance');
 
 
 you now import like this :
+
 var distance = require('google-distance-updated');
