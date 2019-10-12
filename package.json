@@ -1,6 +1,6 @@
 {
   "name": "google-distance-updated",
-  "version": "0.0.5",
+  "version": "2.0.0",
   "main": "index",
   "description": "a updated google distance module for node ",
   "author": {
